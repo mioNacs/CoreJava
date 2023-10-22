@@ -1,18 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c51169a-2b6a-418b-b597-f8ea513759c5" name="Changes" comment="" />
+    <list default="true" id="2c51169a-2b6a-418b-b597-f8ea513759c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/arrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/arrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/fileIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/fileIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/hashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/hashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/id_card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/id_card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/puppy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/rectangle/rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/taxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/taxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Remote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Remote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Television.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/javaapp/television/Television.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/module3/Cake.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/module3/Cake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/module3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/module3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/internshala/module3/Pastry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/internshala/module3/Pastry.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WqWTUPRKUYwKr5v5x0piGTURe4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,13 +58,101 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/wcsc/Desktop/main.java",
     "project.structure.last.edited": "SDK Location",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.com.internshala.module3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java app" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.internshala.javaapp.arrayList" />
+      <module name="java app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.internshala.javaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.internshala.javaapp.rectangle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.internshala.javaapp.rectangle.Main" />
+      <module name="java app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.internshala.javaapp.rectangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.internshala.module3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.internshala.module3.Main" />
+      <module name="java app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.internshala.module3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fileIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.internshala.javaapp.fileIn" />
+      <module name="java app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.internshala.javaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.internshala.javaapp.hashMap" />
+      <module name="java app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.internshala.javaapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.internshala.module3.Main" />
+        <item itemvalue="Application.fileIn" />
+        <item itemvalue="Application.hashMap" />
+        <item itemvalue="Application.com.internshala.javaapp.rectangle.Main" />
+        <item itemvalue="Application.arrayList" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +163,9 @@
       <updated>1697384551998</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
